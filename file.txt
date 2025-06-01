@@ -1,3 +1,3 @@
 Texto contenido en el archivo file
 
-Agregadon texto para hacer un file
+Agregando texto para hacer un file
